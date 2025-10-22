@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h2>Cadastro de Clientes</h2>
+	<h2>Cadastro de dudu</h2>
 	<a href="adicionar.php"><button>Adicionar</button></a>
 	<a href="pesquisar.php"><button>Pesquisar</button></a>
 	<br />
